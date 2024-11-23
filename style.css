@@ -1,0 +1,12 @@
+header {
+    position: absolute;
+    top: 20px;  /* Üstten 20px mesafe */
+    left: 20px;  /* Soldan 20px mesafe */
+}
+
+#logo {
+    width: 100px;  /* Logo boyutunu istediğiniz gibi ayarlayın */
+    height: auto;  /* Yüksekliği otomatik olarak ayarlanır, orantılı kalır */
+    border-radius: 50%; /* Logoyu yuvarlak yapmak isterseniz */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Hafif gölge efekti */
+}
